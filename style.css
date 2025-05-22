@@ -8,11 +8,18 @@ h1 {
     color: #2f196d;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: xx-large;
 }
 p {
+    margin-bottom: px;
     color: #050505;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    font-size: small;
+    font-size: large;
 }
+    img {
+        margin-top: 50px;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
